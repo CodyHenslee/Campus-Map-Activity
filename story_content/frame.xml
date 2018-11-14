@@ -1240,6 +1240,15 @@
             <slidelink slideid="_player.5Zt4HYy13sT.5kBO8ujysKn" displaytext="Hotspot" expand="false" type="slide" />
           </links>
         </slidelink>
+        <slidelink slideid="_player.6MPi1K7GWSp" displaytext="Untitled Scene" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6MPi1K7GWSp.5ipAxexi25v" displaytext="Help" expand="false" type="slide" />
+            <slidelink slideid="_player.6MPi1K7GWSp.6QDUEri8cLX" displaytext="Resources" expand="false" type="slide" />
+            <slidelink slideid="_player.6MPi1K7GWSp.5WZuYsh5zJP" displaytext="Course_map" expand="false" type="slide" />
+            <slidelink slideid="_player.6MPi1K7GWSp.6ohrR8bYTkS" displaytext="Glossary" expand="false" type="slide" />
+            <slidelink slideid="_player.6MPi1K7GWSp.6fNE4LmPbIF" displaytext="Exit" expand="false" type="slide" />
+          </links>
+        </slidelink>
       </links>
     </outline>
   </nav_data>
